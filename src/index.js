@@ -13,6 +13,7 @@ root.render(
   <React.StrictMode>
     <BrowserRouter basename="/">
       <App />
+{/*  */}
     </BrowserRouter>
   </React.StrictMode>,
 );
